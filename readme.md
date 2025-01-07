@@ -31,10 +31,10 @@ DataOne is the best choice for developers and teams who need a simple, efficient
   - Define table schemas with primary keys and data types for each column.
 
 ---
-
+<img src="demo-.gif"/>
 ## **Usage Guide**
 
-### **Basic Commands**
+
 ### **Basic Commands**
 
 #### 1. Create a Table
